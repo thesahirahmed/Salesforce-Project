@@ -106,30 +106,6 @@ Dashboards visualize the generated reports for better insights.
 ### **2. WorkOrders Status Reports**
 ![WorkOrders Status Reports](/final-dashbaords-created-salesforce/WorkOrders%20Status%20Reports.png)
 
-<style>
-img {
-    width: 100%;
-    max-width: 600px;
-    border: 5px solid transparent;
-    border-image: url('https://example.com/water-border.png') 30 round;
-    border-radius: 15px;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-    animation: border-animation 5s infinite;
-}
-
-@keyframes border-animation {
-    0% {
-        border-image-source: url('https://example.com/water-border1.png');
-    }
-    50% {
-        border-image-source: url('https://example.com/water-border2.png');
-    }
-    100% {
-        border-image-source: url('https://example.com/water-border1.png');
-    }
-}
-</style>
-
 - **Description**: Summarizes the status of all WorkOrders.
 - **Visualization**: Highlights completed, pending, and assigned WorkOrders using a pie chart.
 
