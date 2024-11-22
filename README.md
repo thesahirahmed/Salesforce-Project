@@ -69,8 +69,6 @@ This project automates and optimizes field service operations by:
   - `WorkOrderTrigger`: Manages work order assignments.
   - `AssignmentTrigger`: Handles assignment-related email notifications.
 
----
-
 ### **Section 9: Reports and Dashboards**
 #### **Reports**
 1. **WorkOrders Status Reports**:
